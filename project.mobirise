@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/graydawnlogo-128x128.png",
     "noImageResize": ""
@@ -80,6 +80,21 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "18px",
+              "text-align": "center"
+            },
+            "H5": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "features3-b",
           "_params": {
             "paddingTop": "2",
@@ -174,14 +189,19 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
           "_styles": {
             "H4": {
               "text-align": "center"
             },
             "SPAN": {
-              "font-size": "18px",
-              "text-align": "center"
+              "font-size": "18px"
             },
             "H5": {
               "font-size": "12px"
@@ -189,13 +209,7 @@
             "P": {
               "font-size": "12px"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
+          },
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": "1",
@@ -290,21 +304,114 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
           "_styles": {
-            "H4": {
-              "text-align": "center"
+            ".mbr-section-title": {
+              "color": "#28262b"
             },
-            "SPAN": {
-              "font-size": "18px"
-            },
-            "H5": {
-              "font-size": "12px"
-            },
-            "P": {
-              "font-size": "12px"
+            ".mbr-section-text": {
+              "color": "#565656"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-g",
+          "_params": {
+            "imageSize": "70",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1600.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#7c706b",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=HUghYucus8Q",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Video N1",
+          "text": "Bir DD2 Hikayesi :P",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-h",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#90a878",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=G1ZjinzYcxQ",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Surf1 (Lifelesst)",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
