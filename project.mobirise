@@ -101,7 +101,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -114,7 +114,7 @@
           "title1": "<span style=\"font-weight: normal;\">Egehan</span> \"Lifelesst\" <span style=\"font-weight: normal;\">Öztürk</span>",
           "subtitle1": "MAIN TEAM",
           "caption1": "He found this shitty name.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/id/TcQreq/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -126,7 +126,7 @@
           "title2": "<span style=\"font-weight: normal;\">Sefa </span>\"ExA\" <span style=\"font-weight: normal;\">Hatipoğlu</span>",
           "subtitle2": "MAIN TEAM",
           "caption2": "He said fuck this teamname.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/id/RealExaE\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -138,7 +138,7 @@
           "title3": "<span style=\"font-weight: normal;\">Berkay</span> \"<i>Afr</i>\" <span style=\"font-weight: normal;\">Yılmaz</span>",
           "subtitle3": "MAIN TEAM",
           "caption3": "He said fuck it and play.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198201070338/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -150,7 +150,7 @@
           "title4": "<span style=\"font-weight: normal;\">Burak</span> \"mightineSS\" <span style=\"font-weight: normal;\">Ulusal</span>",
           "subtitle4": "MAIN TEAM",
           "caption4": "He said \"SA\".",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198085699711/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -162,7 +162,7 @@
           "title5": "<span style=\"font-weight: normal;\">Missing</span> \"WHO\" <span style=\"font-weight: normal;\">Person</span>",
           "subtitle5": "MAIN TEAM",
           "caption5": "Who the fuck is he ?",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -180,7 +180,8 @@
               "text-align": "center"
             },
             "SPAN": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "text-align": "center"
             },
             "H5": {
               "font-size": "12px"
@@ -216,7 +217,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -229,7 +230,7 @@
           "title1": "<span style=\"font-weight: normal;\">Erkan</span> \"so Diablo\" <span style=\"font-weight: normal;\">Kahraman</span>",
           "subtitle1": "2ND TEAM",
           "caption1": "He said \"Hey diablo fuck ur bela\"",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198125167135/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -241,7 +242,7 @@
           "title2": "<span style=\"font-weight: normal;\">Kubilay</span> \"Peanut\" <span style=\"font-weight: normal;\">Üren</span>",
           "subtitle2": "2ND TEAM",
           "caption2": "He dont have graphic card on his computer",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198175595409/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -253,7 +254,7 @@
           "title3": "<span style=\"font-weight: normal;\">Bora</span> \"ZT_Range\" <span style=\"font-weight: normal;\">Öztaş</span>",
           "subtitle3": "2ND TEAM",
           "caption3": "We are trying to irritate him",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198158817791/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -265,7 +266,7 @@
           "title4": "<span style=\"font-weight: normal;\">Zekeriya</span> \"Zekhas\" <span style=\"font-weight: normal;\">İşler</span>",
           "subtitle4": "2ND TEAM",
           "caption4": "I dont know why he's in this team",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198150273725/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -277,7 +278,7 @@
           "title5": "<span style=\"font-weight: normal;\">Missing</span> \"WHO\" <span style=\"font-weight: normal;\">Person</span>",
           "subtitle5": "2ND TEAM",
           "caption5": "Again, who the fuck is he ??",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
