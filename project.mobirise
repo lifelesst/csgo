@@ -178,6 +178,15 @@
           "_styles": {
             "H4": {
               "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "18px"
+            },
+            "H5": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "12px"
             }
           }
         },
@@ -284,6 +293,15 @@
           "_styles": {
             "H4": {
               "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "18px"
+            },
+            "H5": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "12px"
             }
           }
         }

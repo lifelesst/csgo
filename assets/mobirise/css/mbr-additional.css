@@ -420,6 +420,24 @@ h6,
 #features3-b H4 {
   text-align: center;
 }
+#features3-b SPAN {
+  font-size: 18px;
+}
+#features3-b H5 {
+  font-size: 12px;
+}
+#features3-b P {
+  font-size: 12px;
+}
 #features3-e H4 {
   text-align: center;
+}
+#features3-e SPAN {
+  font-size: 18px;
+}
+#features3-e H5 {
+  font-size: 12px;
+}
+#features3-e P {
+  font-size: 12px;
 }
