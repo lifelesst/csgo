@@ -464,3 +464,10 @@ h6,
 #form1-j SMALL {
   color: #faaf40;
 }
+
+#header1-l .mbr-section-title {
+  font-size: 100px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fac51c;
+  text-align: center;
+}
