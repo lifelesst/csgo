@@ -1,13 +1,13 @@
 {
   "settings": {
     "currentPage": "teamgraydawn.html",
-    "name": "Team Gray Dawn",
+    "name": "Team GrayDawn",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#90a878",
+        "secondaryColor": "#7e9b9f",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/graydawnlogo-128x128.png",
     "noImageResize": ""
@@ -265,10 +265,10 @@
               "active": true
             }
           },
-          "title3": "<span style=\"font-weight: normal;\">Can</span> \"blacklord123\" <span style=\"font-weight: normal;\">Caliskan</span>",
+          "title3": "<span style=\"font-weight: normal;\">Missing </span>\"WHO\"<span style=\"font-weight: normal;\"> Person</span>",
           "subtitle3": "2ND TEAM",
-          "caption3": "He is in here because oztas wants to be in team1",
-          "button3": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198095520276\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"teamgraydawn.html#form1-j\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -289,10 +289,10 @@
               "active": true
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">Burak</span> \"morpheusB\" <span style=\"font-weight: normal;\">Nagrinoglu</span>",
+          "title5": "<span style=\"font-weight: normal;\">Missing </span>\"WHO\"<span style=\"font-weight: normal;\"> Person</span>",
           "subtitle5": "2ND TEAM",
-          "caption5": "Newbie on the team.",
-          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198120180860\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html#form1-j\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -438,6 +438,66 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/egehanoztuurk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/teamgraydawn/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCTOIDAU8HOMoAkyMliBoHng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/egehanoztuurk/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-j",
+          "_params": {
+            "labelsColor": "#28324e",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "JOIN US !",
+          "subtitle": "If you wanna join this team or have an idea contact us !",
+          "form": {
+            "action": "egehan.ozturk.tcqreq@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message (steam link*, rank*, country*, etc.)"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#28324e"
+            },
+            "SMALL": {
+              "color": "#faaf40"
+            }
+          }
         }
       ]
     }
