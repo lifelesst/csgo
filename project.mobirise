@@ -55,7 +55,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/egokbq7-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -174,10 +174,10 @@
               "active": true
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">Missing</span> \"WHO\" <span style=\"font-weight: normal;\">Person</span>",
+          "title5": "<span style=\"font-weight: normal;\">Bora</span> \"ZT_Range\" <span style=\"font-weight: normal;\">Oztas</span>",
           "subtitle5": "MAIN TEAM",
-          "caption5": "Who the fuck is he ?",
-          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
+          "caption5": "We are trying to irritate him.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198158817791/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -265,10 +265,10 @@
               "active": true
             }
           },
-          "title3": "<span style=\"font-weight: normal;\">Bora</span> \"ZT_Range\" <span style=\"font-weight: normal;\">Oztas</span>",
+          "title3": "<span style=\"font-weight: normal;\">Can</span> \"blacklord123\" <span style=\"font-weight: normal;\">Caliskan</span>",
           "subtitle3": "2ND TEAM",
-          "caption3": "We are trying to irritate him",
-          "button3": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198158817791/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption3": "He is in here because oztas wants to be in team1",
+          "button3": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198095520276\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -289,10 +289,10 @@
               "active": true
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">Missing</span> \"WHO\" <span style=\"font-weight: normal;\">Person</span>",
+          "title5": "<span style=\"font-weight: normal;\">Burak</span> \"morpheusB\" <span style=\"font-weight: normal;\">Nagrinoglu</span>",
           "subtitle5": "2ND TEAM",
-          "caption5": "Again, who the fuck is he ??",
-          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption5": "Newbie on the team.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198120180860\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -335,11 +335,11 @@
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#7c706b",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
