@@ -22,9 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/graydawnlogo-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/test1132321-128x133.png",
     "noImageResize": ""
   },
   "pages": {
@@ -72,7 +72,7 @@
             "showButtons": false
           },
           "title": "Team Graydawn",
-          "text": "Graydawn is a amateur team in CS:GO. Well at least for now.<br>Created in 2016 by lifelesst<br>We are not hackers.<br>There is more information in below",
+          "text": "Graydawn is an amateur team in CS:GO. Well at least for now.<br>Created in 2016 by lifelesst<br>We are not hackers.<br>There is more information in below",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -174,10 +174,10 @@
               "active": true
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">Bora</span> \"ZT_Range\" <span style=\"font-weight: normal;\">Oztas</span>",
+          "title5": "<span style=\"font-weight: normal;\">Bora \"</span>ZT_Range<span style=\"font-weight: normal;\">\" Oztas</span>",
           "subtitle5": "MAIN TEAM",
-          "caption5": "We are trying to irritate him.",
-          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198158817791/\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
+          "caption5": "We are tring to irritate him",
+          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/id/ZT_Range\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -210,7 +210,7 @@
               "font-size": "12px"
             }
           },
-          "_anchor": "features3-e",
+          "_anchor": "features3-m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -253,10 +253,10 @@
               "active": true
             }
           },
-          "title2": "<span style=\"font-weight: normal;\">Kubilay</span> \"Peanut\" <span style=\"font-weight: normal;\">Uren</span>",
+          "title2": "<span style=\"font-weight: normal;\">Zekeriya</span> \"Zekhas\" <span style=\"font-weight: normal;\">Isler</span>",
           "subtitle2": "2ND TEAM",
-          "caption2": "He dont have graphic card on his computer",
-          "button2": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198175595409/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption2": "I dont know why he is in the team",
+          "button2": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/id/zekhas59\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -265,10 +265,10 @@
               "active": true
             }
           },
-          "title3": "<span style=\"font-weight: normal;\">Missing </span>\"WHO\"<span style=\"font-weight: normal;\"> Person</span>",
+          "title3": "<span style=\"font-weight: normal;\">Missing \"</span>WHO<span style=\"font-weight: normal;\">\" Person</span>",
           "subtitle3": "2ND TEAM",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"teamgraydawn.html#form1-j\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"teamgraydawn2.html#form1-j\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -277,10 +277,10 @@
               "active": true
             }
           },
-          "title4": "<span style=\"font-weight: normal;\">Zekeriya</span> \"Zekhas\"&nbsp;<span style=\"font-weight: normal;\">Isler</span>",
+          "title4": "<span style=\"font-weight: normal;\">Burak</span> \"morpheusB\" <span style=\"font-weight: normal;\">Nagrinoglu</span>",
           "subtitle4": "2ND TEAM",
-          "caption4": "I dont know why he's in this team",
-          "button4": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198150273725/\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
+          "caption4": "New on the team.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/profiles/76561198120180860\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -289,10 +289,10 @@
               "active": true
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">Missing </span>\"WHO\"<span style=\"font-weight: normal;\"> Person</span>",
+          "title5": "<span style=\"font-weight: normal;\">Hamdi&nbsp;</span>\"cWi\"<span style=\"font-weight: normal;\"> Erdogan</span>",
           "subtitle5": "2ND TEAM",
-          "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"teamgraydawn.html#form1-j\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">STEAM ACCOUNT</a>",
+          "caption5": "New on the team.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://steamcommunity.com/id/crystalwi\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">STEAM ACCOUNT</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -437,7 +437,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/egehanoztuurk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/teamgraydawn/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCTOIDAU8HOMoAkyMliBoHng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/egehanoztuurk/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/teamgraydawn/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCTOIDAU8HOMoAkyMliBoHng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -449,13 +449,13 @@
               "color": "#28324e"
             },
             "SMALL": {
-              "color": "#faaf40"
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "form1-j",
           "_params": {
             "labelsColor": "#28324e",
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
@@ -512,6 +512,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "100px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#fac51c",
+              "text-align": "center"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "32px",
+              "color": "#b8312f",
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-l",
           "_params": {
             "parallax": true,
@@ -529,21 +543,12 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
-          "title": "<a href=\"http://www.graydawn.hol.es/default.html\">ENTER SITE</a>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "100px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#fac51c",
-              "text-align": "center"
-            }
-          }
+          "title": "<a href=\"http://www.graydawn.hol.es/default.html\" class=\"text-primary\">.</a>",
+          "text": "<b>WEBSITE IS DOWN. IM WORKING ON IT.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }

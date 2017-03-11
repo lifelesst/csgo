@@ -436,16 +436,16 @@ h6,
 #features3-b P {
   font-size: 12px;
 }
-#features3-e H4 {
+#features3-m H4 {
   text-align: center;
 }
-#features3-e SPAN {
+#features3-m SPAN {
   font-size: 18px;
 }
-#features3-e H5 {
+#features3-m H5 {
   font-size: 12px;
 }
-#features3-e P {
+#features3-m P {
   font-size: 12px;
 }
 #header6-g .mbr-section-title {
@@ -462,12 +462,17 @@ h6,
   color: #28324e;
 }
 #form1-j SMALL {
-  color: #faaf40;
+  color: #c1c1c1;
 }
 
 #header1-l .mbr-section-title {
   font-size: 100px;
   font-family: 'Montserrat', sans-serif;
   color: #fac51c;
+  text-align: center;
+}
+#header1-l .mbr-section-lead B {
+  font-size: 32px;
+  color: #b8312f;
   text-align: center;
 }
