@@ -517,12 +517,12 @@
               "font-size": "100px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#fac51c",
+              "color": "#f3c649",
               "text-align": "center"
             },
             ".mbr-section-lead B": {
               "font-size": "32px",
-              "color": "#b8312f",
+              "color": "#efefef",
               "text-align": "center"
             }
           },
@@ -546,8 +546,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<a href=\"http://www.graydawn.hol.es/default.html\" class=\"text-primary\">.</a>",
-          "text": "<b>WEBSITE IS DOWN. IM WORKING ON IT.</b>",
+          "title": "<a href=\"http://www.graydawn.hol.es/default.html\" class=\"text-warning\">ENTER</a>",
+          "text": "<b>UP AND RUNNING</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
